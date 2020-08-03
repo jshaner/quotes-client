@@ -1,6 +1,5 @@
 package edu.cnm.deepdive.quotes.model;
 
-import com.google.gson.annotations.Expose;
 import java.net.URL;
 import java.util.Date;
 
